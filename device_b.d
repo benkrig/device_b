@@ -1,0 +1,12 @@
+.\device_b.o: device_b.c
+.\device_b.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stdint.h
+.\device_b.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stdbool.h
+.\device_b.o: device_b.h
+.\device_b.o: ..\..\..\..\inc/hw_types.h
+.\device_b.o: ..\..\..\..\inc/hw_memmap.h
+.\device_b.o: ..\..\..\..\inc/hw_gpio.h
+.\device_b.o: ..\..\..\..\driverlib/sysctl.h
+.\device_b.o: ..\..\..\..\driverlib/pin_map.h
+.\device_b.o: ..\..\..\..\driverlib/gpio.h
+.\device_b.o: ..\..\..\..\inc/tm4c123gh6pm.h
+.\device_b.o: ..\..\..\..\driverlib/interrupt.h

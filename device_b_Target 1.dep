@@ -1,0 +1,16 @@
+Dependencies for Project 'device_b', Target 'Target 1': (DO NOT MODIFY !)
+F (.\startup_rvmdk.S)(0x5C80B0A2)(--cpu Cortex-M4.fp --pd "__EVAL SETA 1" -g --apcs=interwork -IC:\Keil_v5\ARM\RV31\INC-IC:\Keil_v5\ARM\CMSIS\Include-IC:\Keil_v5\ARM\INC\TI\TM4C123--pd "__UVISION_VERSION SETA 526"--list .\startup_rvmdk.lst --xref -o .\startup_rvmdk.o --depend .\startup_rvmdk.d)
+F (..\..\..\..\driverlib\rvmdk\driverlib.lib)(0x5C59EA93)()
+F (.\device_b.c)(0x5C80AFB5)(-c --cpu Cortex-M4.fp -D__EVAL -g -O0 --apcs=interwork -I ..\..\..\.. --c99-IC:\Keil_v5\ARM\RV31\INC-IC:\Keil_v5\ARM\CMSIS\Include-IC:\Keil_v5\ARM\INC\TI\TM4C123-D__UVISION_VERSION="526" -Drvmdk -DPART_TM4C123GH6PM -DTM4C123GH6PM-o .\device_b.o --omf_browse .\device_b.crf --depend .\device_b.d)
+I (C:\Keil_v5\ARM\ARMCC\include\stdint.h)(0x599FBC3E)
+I (C:\Keil_v5\ARM\ARMCC\include\stdbool.h)(0x599FBC3E)
+I (device_b.h)(0x5C80AA2C)
+I (..\..\..\..\inc/hw_types.h)(0x5C59EAA0)
+I (..\..\..\..\inc/hw_memmap.h)(0x5C59EAA0)
+I (..\..\..\..\inc/hw_gpio.h)(0x5C59EA9F)
+I (..\..\..\..\driverlib/sysctl.h)(0x5C59EA92)
+I (..\..\..\..\driverlib/pin_map.h)(0x5C59EA92)
+I (..\..\..\..\driverlib/gpio.h)(0x5C59EA92)
+I (..\..\..\..\inc/tm4c123gh6pm.h)(0x5C59EAA0)
+I (..\..\..\..\driverlib/interrupt.h)(0x5C59EA92)
+F (.\device_b.h)(0x5C80AA2C)()
